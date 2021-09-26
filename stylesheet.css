@@ -26,3 +26,10 @@ article figure  {
 article figure img {
     width: 100%;
 }
+
+nav ul{
+  background-color: PaleVioletRed;
+  display: inline-block;
+  list-style: none;
+  padding-left: 0;
+}
