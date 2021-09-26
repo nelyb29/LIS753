@@ -42,6 +42,7 @@ nav ul li a{
   background-color: PaleVioletRed;
   color: white;
   text-decoration: none;
+  text-transform: uppercase;
   padding: 8px;
   border-bottom: 1px solid MediumVioletRed;
   display: block;
