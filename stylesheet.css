@@ -28,7 +28,6 @@ article figure img {
 }
 
 nav ul{
-  background-color: PaleVioletRed;
   display: inline-block;
   list-style: none;
   padding-left: 0;
@@ -40,9 +39,14 @@ nav ul li{
 }
 
 nav ul li a{
+  background-color: PaleVioletRed;
   color: white;
   text-decoration: none;
   padding: 8px;
   border-bottom: 1px solid MediumVioletRed;
   display: block;
+}
+
+nav ul li: last-child a {
+  border-bottom: none;
 }
