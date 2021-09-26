@@ -47,6 +47,10 @@ nav ul li a{
   display: block;
 }
 
+nav ul li a:hover{
+  background-color: MediumVioletRed;
+}
+
 nav ul li: last-child a {
   border-bottom: none;
 }
