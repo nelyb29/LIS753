@@ -19,6 +19,7 @@ article header p {
 
 article figure  {
     width: 600px;
+    background-color: gray;
     border: 3px solid black;
     padding: 5px;
 }
