@@ -103,3 +103,12 @@ border-bottom: 1px solid MediumVioletRed;
 footer nav{
 
 }
+
+footer nav ul li a:hover{
+  text-decoration: underline;
+}
+
+footer#page-footer{
+  padding:32px;
+  text-align: center;
+}
