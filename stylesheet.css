@@ -48,6 +48,14 @@ figure.section-image{
   max-width: 320px;
 }
 
+figure.section-image.odd{
+
+}
+
+figure.section-image.even{
+
+}
+
 article figure img {
     width: 100%;
 }
