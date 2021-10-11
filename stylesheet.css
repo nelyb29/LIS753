@@ -104,6 +104,10 @@ footer nav{
 
 }
 
+footer nav ul li a{
+  color: #ffffff;
+}
+
 footer nav ul li a:hover{
   text-decoration: underline;
 }
@@ -112,5 +116,6 @@ footer#page-footer{
   padding:32px 0;
   margin-top: 64px;
   text-align: center;
-  border-top: 1px solid MediumVioletRed;
+  background-color: MediumVioletRed;
+  color: #ffffff;
 }
