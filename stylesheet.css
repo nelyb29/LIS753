@@ -4,12 +4,22 @@ body {
   color: black;
   text-align: center;
 }
-article {
-    width: 800px;
+
+h1#site-title{
+  font-size: 72px;
+  text-align: center;
+  letter-spacing: -3px;
+  margin-top: 0;
+  margin-bottom: .125em;
 }
 
-article header h1 {
-    color: MediumVioletRed;
+h1#article-title{
+font-size: 48px;
+
+}
+
+article {
+    width: 800px;
 }
 
 article header p {
