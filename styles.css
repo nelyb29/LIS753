@@ -1,0 +1,121 @@
+body {
+  font-family: Verdana;
+  background: white;
+  color: black;
+  text-align: center;
+}
+
+h1#site-title{
+  font-size: 72px;
+  text-align: center;
+  letter-spacing: -3px;
+  margin-top: 0;
+  margin-bottom: .125em;
+}
+
+h1#article-title{
+font-size: 48px;
+
+}
+
+article {
+    width: 800px;
+}
+
+article header p {
+    background-color: palevioletred;
+    color: black;
+}
+
+figure  {
+    max-width: 100%;
+    height:auto;
+    margin-bottom: 12px;
+    border: 3px solid black;
+    padding: 5px;
+}
+
+figure.main-image{
+  background: palevioletred;
+  border: MediumVioletRed;
+  color: #ffffff;
+}
+
+figure.section-image{
+  margin-bottom:32px;
+  max-width: 320px;
+}
+
+figure.section-image.odd{
+  float: right;
+  margin-left:20px;
+}
+
+figure.section-image.even{
+  float: left;
+  margin-right: 20px;
+}
+
+article figure img {
+    width: 100%;
+}
+
+article figure figcaption{
+  color: black;
+}
+
+nav ul{
+  display:flex;
+  justify-content: center;
+  list-style: none;
+  gap:30px;
+  padding-left: 0;
+}
+
+nav ul li{
+
+}
+
+nav ul li a{
+  color: black;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 0;
+  display: block;
+}
+
+header nav ul li a:hover{
+  border-bottom: 3px solid MediumVioletRed;
+  padding-bottom: 9px;
+}
+
+nav ul li: last-child a {
+  border-bottom: none;
+}
+
+header nav ul{
+border-top: 1px solid MediumVioletRed;
+border-bottom: 1px solid MediumVioletRed;
+}
+
+footer nav{
+
+}
+
+footer nav ul li a{
+  color: #ffffff;
+}
+
+footer nav ul li a:hover{
+  text-decoration: underline;
+}
+
+footer#page-footer{
+  padding:32px 0;
+  margin-top: 64px;
+  text-align: center;
+  background-color: MediumVioletRed;
+  color: #ffffff;
+}
