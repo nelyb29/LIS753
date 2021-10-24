@@ -95,4 +95,5 @@ footer#page-footer{
   text-align: center;
   background-color: #B22222;
   color: #000000;
+  border-top: 1px solid black;
 }
