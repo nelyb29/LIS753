@@ -1,13 +1,13 @@
 body {
   font-family: Verdana;
-  background: lightred;
+  background: #B22222;
   color: white;
   text-align: center;
   max-width: 200%;
   margin: auto;
 }
 
-h1#site-title{
+h1{
   font-size: 72px;
   text-align: center;
   letter-spacing: -3px;
@@ -15,10 +15,6 @@ h1#site-title{
   margin-bottom: .125em;
 }
 
-h1#article-title{
-font-size: 48px;
-
-}
 
 article {
     width: 800px;
@@ -35,27 +31,6 @@ figure  {
     margin-bottom: 12px;
     border: 3px solid black;
     padding: 5px;
-}
-
-figure.main-image{
-  background: palevioletred;
-  border: MediumVioletRed;
-  color: #ffffff;
-}
-
-figure.section-image{
-  margin-bottom:32px;
-  max-width: 320px;
-}
-
-figure.section-image.odd{
-  float: right;
-  margin-left:20px;
-}
-
-figure.section-image.even{
-  float: left;
-  margin-right: 20px;
 }
 
 article figure img {
@@ -89,7 +64,7 @@ nav ul li a{
 }
 
 header nav ul li a:hover{
-  border-bottom: 3px solid MediumVioletRed;
+  border-bottom: 3px solid black;
   padding-bottom: 9px;
 }
 
@@ -98,8 +73,8 @@ nav ul li: last-child a {
 }
 
 header nav ul{
-border-top: 1px solid MediumVioletRed;
-border-bottom: 1px solid MediumVioletRed;
+border-top: 1px solid black;
+border-bottom: 1px solid black;
 }
 
 footer nav{
@@ -118,6 +93,6 @@ footer#page-footer{
   padding:32px 0;
   margin-top: 64px;
   text-align: center;
-  background-color: MediumVioletRed;
-  color: #ffffff;
+  background-color: black;
+  color: #000001;
 }
