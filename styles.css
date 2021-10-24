@@ -3,6 +3,8 @@ body {
   background: white;
   color: black;
   text-align: center;
+  max-width: 500px;
+  margin: auto;
 }
 
 h1#site-title{
