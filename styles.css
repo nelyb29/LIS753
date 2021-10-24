@@ -33,21 +33,9 @@ article h2 {
     color: white;
 }
 
-figure  {
-    max-width: 100%;
-    height:auto;
-    margin-bottom: 12px;
-    border: 3px solid black;
-    padding: 5px;
-}
-
 article img {
     width: 50%;
     float: right;
-}
-
-article figure figcaption{
-  color: black;
 }
 
 nav ul{
