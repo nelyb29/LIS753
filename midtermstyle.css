@@ -45,7 +45,7 @@ nav ul{
   list-style: none;
   gap:30px;
   padding-left: 0;
-  background-color: #B03A2E;
+  background-color: #D98880;
 }
 
 nav ul li{
@@ -92,7 +92,7 @@ footer#page-footer{
   padding:32px 0;
   margin-top: 64px;
   text-align: center;
-  background-color: #B03A2E;
+  background-color: #D98880;
   color: #000000;
   border-top: 1px solid black;
 }
