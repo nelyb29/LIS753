@@ -23,7 +23,7 @@ article {
     margin: auto;
 }
 
-article header {
+article h2 {
     background-color: black;
     color: black;
 }
