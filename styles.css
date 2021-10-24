@@ -15,6 +15,10 @@ h1{
   margin-bottom: .125em;
 }
 
+img{
+  max-width: 100%;
+  height: auto;
+}
 
 article {
     width: 800px;
