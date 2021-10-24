@@ -21,7 +21,7 @@ article {
 }
 
 article header p {
-    background-color: palevioletred;
+    background-color: white;
     color: black;
 }
 
@@ -93,6 +93,6 @@ footer#page-footer{
   padding:32px 0;
   margin-top: 64px;
   text-align: center;
-  background-color: black;
+  background-color: #B22222;
   color: #000000;
 }
