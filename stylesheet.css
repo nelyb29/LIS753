@@ -66,13 +66,18 @@ article figure img {
 article figure figcaption{
   color: black;
 }
-
 nav ul{
-  display:flex;
-  justify-content: center;
   list-style: none;
-  gap:30px;
   padding-left: 0;
+}
+
+@media all and (min-width:376px){
+  nav ul{
+    display:flex;
+    justify-content: center;
+    gap:30px;
+  }
+
 }
 
 nav ul li{
