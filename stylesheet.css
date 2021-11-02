@@ -20,7 +20,10 @@ h1#article-title{
 font-size: 48px;
 
 }
-
+ img{
+   max-width: 100%;
+   height:auto;
+ }
 article {
     width: auto;
     text-align: center;
