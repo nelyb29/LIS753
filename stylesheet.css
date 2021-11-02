@@ -44,9 +44,12 @@ figure.main-image{
   color: #ffffff;
 }
 
-figure.section-image{
-  margin-bottom:32px;
-  max-width: 320px;
+@media all and (min-width:768px) {
+  figure.section-image{
+    max-width: 320px;
+    float: right;
+    margin: -20px -62px 32px 20px;
+  }
 }
 
 figure.section-image.odd{
