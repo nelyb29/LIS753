@@ -12,6 +12,7 @@ h1#site-title{
   letter-spacing: -3px;
   margin-top: 0;
   margin-bottom: .125em;
+  justify-content: center;
 }
 
 h1#article-title{
