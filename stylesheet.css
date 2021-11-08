@@ -10,10 +10,6 @@ body.dark-mode{
   color: #ffffff;
 }
 
-nav.dark-mode{
-  color:#FFFFFF;
-}
-
 h1#site-title{
   font-size: 72px;
   text-align: center;
@@ -97,7 +93,7 @@ nav ul li{
 }
 
 nav ul li a{
-  color: black;
+  color: MediumVioletRed;
   text-decoration: none;
   text-transform: uppercase;
   font-size: 14px;
