@@ -5,6 +5,11 @@ body {
   text-align: center;
 }
 
+body.dark-mode{
+  background: #010101;
+  color: #ffffff;
+}
+
 h1#site-title{
   font-size: 72px;
   text-align: center;
@@ -95,6 +100,10 @@ nav ul li a{
   font-weight: bold;
   padding: 0;
   display: block;
+}
+
+nav.darkMode{
+  color:#ffffff;
 }
 
 header nav ul li a:hover{
