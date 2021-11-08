@@ -93,17 +93,13 @@ nav ul li{
 }
 
 nav ul li a{
-  color: black;
+  color: #ffffff;
   text-decoration: none;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: bold;
   padding: 0;
   display: block;
-}
-
-nav.darkMode{
-  color:#ffffff;
 }
 
 header nav ul li a:hover{
