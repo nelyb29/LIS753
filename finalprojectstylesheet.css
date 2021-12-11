@@ -93,7 +93,7 @@ nav ul li{
 }
 
 nav ul li a{
-  color: MediumVioletRed;
+  color: #f55d16;
   text-decoration: none;
   text-transform: uppercase;
   font-size: 14px;
@@ -103,7 +103,7 @@ nav ul li a{
 }
 
 header nav ul li a:hover{
-  border-bottom: 3px solid MediumVioletRed;
+  border-bottom: 3px solid #f5ae16;
   padding-bottom: 9px;
 }
 
@@ -112,8 +112,8 @@ nav ul li: last-child a {
 }
 
 header nav ul{
-border-top: 1px solid MediumVioletRed;
-border-bottom: 1px solid MediumVioletRed;
+border-top: 1px solid #f55d16;
+border-bottom: 1px solid #f55d16;
 }
 
 footer nav{
@@ -132,6 +132,6 @@ footer#page-footer{
   padding:32px 0;
   margin-top: 64px;
   text-align: center;
-  background-color: MediumVioletRed;
+  background-color: #f55d16;
   color: #ffffff;
 }
