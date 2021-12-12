@@ -24,7 +24,7 @@ font-size: 48px;
 
 }
  img{
-   max-width: 100%;
+   max-width: auto;
    height:auto;
  }
 article {
