@@ -23,6 +23,9 @@ h1#article-title{
 font-size: 48px;
 
 }
+h2{
+  text-align: center;
+}
  img{
    max-width: auto;
    height:auto;
